@@ -1,2 +1,3 @@
 # hello-world
-yo
+
+hello just learning how to use git
